@@ -1,12 +1,9 @@
 # MythicalPets - Auction Website (2019)
 ## JavaScript, PHP, SQL, HTML, CSS
 
-[![Demo](https://img.youtube.com/vi/zxwSP8K2APo/0.jpg)](https://www.youtube.com/watch?v=zxwSP8K2APo)
-
-
-## Group Project
-
 An AMP-based web application for buying and selling mythical pets.
+
+[![Demo](https://img.youtube.com/vi/zxwSP8K2APo/0.jpg)](https://www.youtube.com/watch?v=zxwSP8K2APo)
 
 <img src="https://github.com/JamesDHW/MythicalPets/blob/master/img1.png" width="500">
 
