@@ -1,6 +1,7 @@
 # MythicalPets - Auction Website (2019)
 ## JavaScript, PHP, SQL, HTML, CSS
-### https://www.youtube.com/watch?v=zxwSP8K2APo
+
+[![Demo](https://img.youtube.com/vi/zxwSP8K2APo/0.jpg)](https://www.youtube.com/watch?v=zxwSP8K2APo)
 
 Group Project
 
